@@ -6,7 +6,7 @@ namespace VS_first_experience_Github
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello second change!");
+            Console.WriteLine("Hello second change houda!");
         }
     }
 }
